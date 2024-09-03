@@ -1,0 +1,27 @@
+.a {
+    text-align: center;
+
+}
+
+.b {
+    background-image: url(' https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png');
+    background-size: cover;
+    color: white;
+    font-family: Roboto;
+    height: 700px;
+}
+
+.c {
+    text-align: center;
+}
+
+.d {
+    text-decoration: underline;
+}
+
+.e {
+    background-color: orange;
+    padding: 8px;
+    color: white;
+    margin: 0px;
+}
